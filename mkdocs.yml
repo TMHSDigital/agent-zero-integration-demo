@@ -1,0 +1,7 @@
+site_name: Agent Zero Integration Demo Docs
+nav:
+  - Home: index.md
+  - Features: features.md
+  - CI/CD: cicd.md
+  - Contributing: contributing.md
+  - Changelog: ../CHANGELOG.md
