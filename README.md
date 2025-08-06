@@ -1,4 +1,5 @@
 # Agent Zero Integration Demo
+[![CI](https://github.com/TMHSDigital/agent-zero-integration-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/TMHSDigital/agent-zero-integration-demo/actions)
 
 [![GitHub issues](https://img.shields.io/github/issues/TMHSDigital/agent-zero-integration-demo?style=flat-square)](https://github.com/TMHSDigital/agent-zero-integration-demo/issues)
 [![GitHub stars](https://img.shields.io/github/stars/TMHSDigital/agent-zero-integration-demo?style=flat-square)](https://github.com/TMHSDigital/agent-zero-integration-demo/stargazers)
