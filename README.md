@@ -1,4 +1,4 @@
-# Agent Zero Integration Demo 🚀
+# Agent Zero Integration Demo
 
 [![GitHub issues](https://img.shields.io/github/issues/TMHSDigital/agent-zero-integration-demo?style=flat-square)](https://github.com/TMHSDigital/agent-zero-integration-demo/issues)
 [![GitHub stars](https://img.shields.io/github/stars/TMHSDigital/agent-zero-integration-demo?style=flat-square)](https://github.com/TMHSDigital/agent-zero-integration-demo/stargazers)
@@ -7,9 +7,9 @@
 
 ---
 
-Welcome to the **Agent Zero Integration Demo** repository! This repo is used to showcase and test advanced GitHub automation and README features.
+Welcome to the Agent Zero Integration Demo repository! This repo is used to showcase and test advanced GitHub automation and README features.
 
-## 📋 Table of Contents
+## Table of Contents
 - [Badges & Shields](#badges--shields)
 - [Features](#features)
 - [Demo Code](#demo-code)
@@ -17,7 +17,7 @@ Welcome to the **Agent Zero Integration Demo** repository! This repo is used to 
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🛡️ Badges & Shields
+## Badges & Shields
 Here are some cool badges you can add to your README using [shields.io](https://shields.io):
 
 - ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
@@ -26,26 +26,26 @@ Here are some cool badges you can add to your README using [shields.io](https://
 - ![GitHub repo size](https://img.shields.io/github/repo-size/TMHSDigital/agent-zero-integration-demo?style=flat-square)
 - ![GitHub contributors](https://img.shields.io/github/contributors/TMHSDigital/agent-zero-integration-demo?style=flat-square)
 
-## ✨ Features
+## Features
 - Automated repo management with [Agent Zero](https://github.com/TMHSDigital/Agent_Zero_TMHS)
 - Dynamic README badges
-- Markdown tables, emoji, and code blocks
+- Markdown tables, and code blocks
 - Easy to extend for CI/CD, issue templates, and more
 
-## 💻 Demo Code
+## Demo Code
 ```python
-print("Hello, GitHub! 🚀")
+print("Hello, GitHub!")
 ```
 
-## 📎 Useful Links
+## Useful Links
 - [Shields.io Badge Generator](https://shields.io/)
 - [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 - [GitHub Actions](https://github.com/features/actions)
 
-## 🤝 Contributing
+## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-## 📄 License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
