@@ -1,0 +1,22 @@
+
+:root {
+  --primary-bg: #22223b;
+  --primary-fg: #f2e9e4;
+  --accent: #4a4e69;
+  --highlight: #9a8c98;
+}
+body {
+  background: var(--primary-bg);
+  color: var(--primary-fg);
+}
+.navbar, footer {
+  background: var(--accent) !important;
+}
+.section {
+  background: var(--primary-bg);
+  color: var(--primary-fg);
+}
+header img {
+  height: 40px;
+  margin-right: 1rem;
+}
